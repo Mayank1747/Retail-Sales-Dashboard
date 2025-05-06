@@ -67,7 +67,7 @@ To build or replicate this dashboard:
 
 ## 📬 Feedback
 
-Have suggestions or improvements? Feel free to [open an issue](https://github.com/yourusername/your-repo-name/issues) or submit a pull request!
+Have suggestions or improvements? Feel free to [open an issue](https://github.com/Mayank1747/Retail-Sales-Dashboard//issues) or submit a pull request!
 
 ---
 
